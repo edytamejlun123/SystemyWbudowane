@@ -1,0 +1,27 @@
+- Nieobecności : max 4 - nie bez usprawiedliwienia; nie jest wymagane zwolnienie lekarskie.
+- PICSIMlab
+- e-mail do prowadzącego: kacper.kotulak@uwm.edu.pl
+
+ZASADY ZALICZENIA : 
+1 ocena: 
+  SPRAWOZDANIE NA KONIEC SEMESTRU; najważniejsza ocena,
+  dołączyć: 
+    wersja cyfrowa, plik PDF
+    pliki wykonywalne hex
+    czysty kod w C. - istotne części kodu = komentarze
+  
+  CHAT GPT?? używać rozważnie.
+
+2 ocena: 3-4 ćwiczenia; 6.03.2024; 13.03.2024
+  PREZENTACJA, każdy ma swój temat -> " Mikrokontroler czym to jest? "
+
+zadanie: 
+licznik binarny 
+zmieni liczbę w systemie dziesiętnym na system binarny
+używamy & ; | ; ^ ; >> ; <<
+NO_BIT
+VAL
+BIT_VALUE
+
+na następne zajęcia, kod greya w pętli.
+
