@@ -1,0 +1,13 @@
+Zadanie 1. 
+Programy mają przechodzić jeden po drugim po skończonym cyklu, ale ma być również opcja przycisków.
+Jeśli ktoś naciśnie przycisk program przechodzi do kolejnego podprogramu. 
+Po 9 jest 1, przed 1 jest 9.
+
+Podprogram 5 i 6. 
+2x4 bitowy licznik w kodzie BCD zliczający w górę / dół (0...99)
+XXXX XXXX
+dla 0: 
+0000 0000 
+dla 99: 
+1001 1001
+
